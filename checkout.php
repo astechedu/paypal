@@ -39,8 +39,6 @@ if(empty($productData)){
 </div>
 
 
-
+<!-- Button -->
 <script src="https://www.paypalobjects.com/api/checkout.js"></script>
-
-
 <script src="js/checkoutpay.js"></script>

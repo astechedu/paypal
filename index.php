@@ -1,21 +1,3 @@
-<?php
-/*
-https://www.codexworld.com/paypal-express-checkout-integration-in-php/
-
-paypal_express_checkout_integration_php/
-├── config.php
-├── index.php
-├── checkout.php
-├── payment-status.php
-├── process.php
-├── DB.class.php
-├── PaypalExpress.class.php
-├── css/
-│   └── style.css
-└── images/
-*/
-?>                                
-
 <?php 
 // Include and initialize database class 
 
@@ -54,9 +36,6 @@ if(!empty($products)){
 	<title>Paypal</title>
 </head>
 <body>
-
-
-
 
 </body>
 </html>

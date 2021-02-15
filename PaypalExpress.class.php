@@ -1,11 +1,4 @@
 <?php 
-/* 
- * PaypalExpress Class 
- * This class is used to handle PayPal API related operations 
- * @author    CodexWorld.com 
- * @url        http://www.codexworld.com 
- * @license    http://www.codexworld.com/license 
- */ 
 // Include configuration file  
 require_once 'config.php'; 
 class PaypalExpress{ 

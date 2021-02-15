@@ -1,17 +1,6 @@
 <!--
 JavaScript code to render PayPal checkout button and execute payment
 -->
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Process</title>
-</head>
-<body>
-   
-</body>
-</html>
-
 <?php 
 $redirectStr = ''; 
 if(!empty($_GET['paymentID']) && !empty($_GET['token']) && !empty($_GET['payerID']) && !empty($_GET['pid']) ){ 
