@@ -1,7 +1,6 @@
 <?php 
-// Include and initialize database class 
+// Include and initialize database class// 
 
-echo "hi";
 include_once 'database.php'; 
 $db = new Database; 
  
@@ -36,6 +35,8 @@ if(!empty($products)){
 	<title>Paypal</title>
 </head>
 <body>
+
+
 
 </body>
 </html>
